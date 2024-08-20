@@ -1,0 +1,44 @@
+Para acceder a nagios deben acceder a ubuntu
+
+User: nagiosadmin
+Pass: Duoc.2024
+
+UBUNTU
+
+User: alumno
+Pass: Duoc.2024 
+--------------------------------------------
+
+MariaDB
+
+Pass: Duoc.2024
+
+--------------------------------------------
+
+Windows 7 ENSP
+
+Pass: 12345
+
+--------------------------------------------
+
+Issabel
+
+Para todo la contraseña es Duoc.2024
+
+Users: root | alumno
+
+------------------------------------------
+
+Redhat_Consola
+User:root
+Pass: redhat
+
+Redhat_Grafico
+
+User:Duoc.2021
+
+---------------------------------------
+IOU WEB
+
+User: root
+Pass: cisco
